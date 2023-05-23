@@ -1,6 +1,6 @@
 .vscode/
 EXE/
 helloworld.cpp
-test*
+test*.cpp
 demo*
 *.exe
